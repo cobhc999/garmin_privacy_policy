@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+permalink: /privacy/
+---
+
 # Privacy Policy – Activity+ GAP Gauge
 
 Last updated: 2026-11-19
